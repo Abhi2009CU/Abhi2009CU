@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi2009CU
-- 👀 I’m interested in Coding languages such as Python, Java, Html, and css.
-- 🌱 I’m currently learning java, html and css
+- 👀 I’m interested in Coding languages such as Python, Java, HTML, and CSS.
+- 🌱 I’m currently learning Java, HTML and CSS, and Ai with Python
 - 💞️ I’m looking to collaborate on Web application building and others.
 - 📫 How to reach me... please reach me at <to be reviewed>
 - 😄 Pronouns: He/Him
