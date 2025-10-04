@@ -13,6 +13,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi2009cu&layout=compact&count_private=false" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi2009cu&show_icons=true&locale=en" alt="abhi2009cu" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi2009cu&show_icons=true&locale=en" alt="abhi2009cu" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi2009cu&" alt="abhi2009cu" /></p>
