@@ -1,6 +1,6 @@
 <h3 align="center">A backend developer and student from the United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abh12009&label=Profile%20views&color=0e75b6&style=flat" alt="abh12009" v=1/> </p>
+<img src="https://komarev.com/ghpvc/?username=abh12009x&label=Profile%20views&color=0e75b6&style=flat" />
 
 - 🔭 I’m currently working to make **FTC robots**
 
